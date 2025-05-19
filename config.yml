@@ -10,28 +10,28 @@ pagination:
 taxonomies:
     tag: tags
 
-#menu:
-    #main:
-     #   - name: Books
-     #     url: books/
-     #     weight: 5 
-     #   - name: Papers
-     #     url: papers/
-     #     weight: 2
-     #   - name: Courses
-     #     url: courses/
-     #     weight: 3
-     #   - name: Data
-     #     url: data/
-    #    weight: 4 
-     #   - name: Blog
-     #     url: https://en.wikipedia.org/wiki/Moritz-Maria_von_Igelfeld_(character)
-     #     weight: 6
+menu:
+    main:
+        - name: Books
+          url: books/
+          weight: 5 
+        - name: Papers
+          url: papers/
+          weight: 2
+        - name: Courses
+          url: courses/
+          weight: 3
+        - name: Data
+          url: data/
+          weight: 4 
+        - name: Blog
+          url: https://en.wikipedia.org/wiki/Moritz-Maria_von_Igelfeld_(character)
+          weight: 6
 
 params:
     description: "My name is Ce Shi, I’m a lecturer at the Beijing International Studies University."
     author: Ce Shi
-    # googleAnalyticsID: "G-XXXXX"
+    googleAnalyticsID: "G-XXXXX"
     DateFormat: "January 2006"
     defaultTheme: light
     hideFooter: false
