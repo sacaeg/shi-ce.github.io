@@ -37,7 +37,7 @@ params:
     profileMode:
           enabled: true
           title: Ce Shi
-          subtitle: "My name is Ce Shi (史策, 사책), and I’m a lecturer at Beijing International Studies University. I received my Ph.D. in Korean Language and Literature from Korea University in August 2024. My research interests include modern Korean literature, comparative literature, digital humanities, and Chinese <i>Dongbei</i> literature. <br>Please refer to my CV for more information."
+          subtitle: "My name is Ce Shi (史策, 사책), and I’m a lecturer at Beijing International Studies University. I received my Ph.D. in Literature from Korea University in August 2024. My research interests include modern Korean literature, comparative literature, digital humanities, and Chinese <i>Dongbei</i> literature. <br>Please refer to my CV for more information."
           imageUrl: "profile.jpg"
           imageWidth: 260
           imageHeight: 260
