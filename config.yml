@@ -59,7 +59,9 @@ params:
           imageUrl: "picture.jpeg"
           imageWidth: 160
           imageHeight: 160
-        # buttons:
+          buttons:
+          - name: Curriculum vitae
+            url: cv.pdf
         #    - name: Papers
         #      url: papers/
         #    - name: Data
@@ -76,8 +78,8 @@ params:
         #      url: https://en.wikipedia.org/wiki/Moritz-Maria_von_Igelfeld_(character)
 
     socialIcons:
-        - name: CV
-          url: cv.pdf
+       # - name: CV
+       #   url: cv.pdf
        # - name: Email
        #   url: mailto:igelfeld@regensburg.edu
        # - name: Zoom
