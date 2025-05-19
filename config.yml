@@ -43,8 +43,7 @@ params:
           imageHeight: 260
           buttons:
             - name: Curriculum Vitae
-              url: https://www.dropbox.com/scl/fi/fylok7zyo857o735zcbtp/CV_20150618.pdf?rlkey=nkgnihni1qymeicegxlfqryri&st=ws64wjr7&dl=0
-              target: _blank
+              url: https://www.dropbox.com/scl/fi/kv4cba5le59bf86vb9a4y/CV_20250618.pdf?rlkey=ym4me5y33kx6my104kr7ormvq&st=jve6b1ij&dl=0
     assets:
         disableScrollBarStyle: true
     cover:
