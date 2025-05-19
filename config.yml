@@ -1,5 +1,5 @@
-baseURL: "https://shi-ce.github.io" 
-title: Ce Shi
+baseURL: "https://shi-ce.github.io"
+title: Moritz-Maria von Igelfeld
 theme: PaperMod
 
 enableInlineShortcodes: true
@@ -29,9 +29,9 @@ menu:
           weight: 6
 
 params:
-    description: "My name is Ce Shi, I’m a lecturer at the Beijing International Studies University."
-    author: Ce Shi
-    googleAnalyticsID: "G-XXXXX"
+    description: "This website hosts Moritz-Maria von Igelfeld's research papers, books, course materials, data, curriculum vitae, and contact information."
+    author: Moritz-Maria von Igelfeld
+    # googleAnalyticsID: "G-XXXXX"
     DateFormat: "January 2006"
     defaultTheme: light
     hideFooter: false
@@ -54,8 +54,8 @@ params:
     math: true
     profileMode:
           enabled: true
-          title: Ce Shi
-          subtitle: "My name is Ce Shi (史策, 사책), and I’m a lecturer at School of Asian Studies, Beijing International Studies University. I obtained a Ph.D. in Literature from Korea University in August 2024. <br>My research spans Korean modern literature, comparative literature, digital humanities, and Chinese <i>Dongbei<i> literature. <br>Feel free to reach me at <i>sacaeg@korea.edu<i>. <br>Check out my Curriculum vitae for more information about me."
+          title: Professor Dr von Igelfeld
+          subtitle: "I am a Professor in the Institute of Romance Philology at the University of Regensburg, Germany. My research focuses on Portuguese irregular verbs. I was a doctoral student of Professor Dr Dieter Vogelsang in Munich, and later a second assistant of Professor Walter Schoeffler-Henschell at the University of Wiesbaden."
           imageUrl: "picture.jpeg"
           imageWidth: 160
           imageHeight: 160
@@ -66,7 +66,7 @@ params:
               url: data/
             - name: Books
               url: books/
-           - name: Courses
+            - name: Courses
               url: courses/
             - name: Tags
               url: tags/
@@ -76,6 +76,8 @@ params:
               url: https://en.wikipedia.org/wiki/Moritz-Maria_von_Igelfeld_(character)
 
     socialIcons:
+        - name: CV
+          url: cv.pdf
         - name: Email
           url: mailto:igelfeld@regensburg.edu
         - name: Zoom
