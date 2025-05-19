@@ -54,8 +54,8 @@ params:
     math: true
     profileMode:
           enabled: true
-          title: Dr Ce SHI
-          subtitle: "My name is Ce Shi (史策, 사책), I’m a lecturer at the Beijing International Studies University. I obtained a Ph.D. in literature from Korea University in Aug 2024. My research span Korean mordern literature, comparative literature, digital humanities, and Chinese ‘Dongbei’ literature. Free free to reach me at sacaeg@korea.edu. Check out my CV for more information about me."
+          title: Ce Shi
+          subtitle: "My name is Ce Shi (史策, 사책), and I’m a lecturer at School of Asian Studies, Beijing International Studies University. I obtained a Ph.D. in Literature from Korea University in August 2024. <br>My research spans Korean modern literature, comparative literature, digital humanities, and Chinese <i>Dongbei<i> literature. <br>Feel free to reach me at <i>sacaeg@korea.edu<i>. <br>Check out my Curriculum vitae for more information about me."
           imageUrl: "picture.jpeg"
           imageWidth: 160
           imageHeight: 160
