@@ -13,7 +13,7 @@ taxonomies:
 params:
     description: "My name is Ce Shi (史策, 사책), a lecturer at School of Asian Studies, Beijing International Studies University. "
     author: Ce Shi
-    # googleAnalyticsID: "G-XXXXX"
+    googleAnalyticsID: "G-28EY7KY9DC"
     DateFormat: "January 2006"
     defaultTheme: light
     hideFooter: false
