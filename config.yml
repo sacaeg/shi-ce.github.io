@@ -1,5 +1,5 @@
 baseURL: "https://shi-ce.github.io"
-title: Ce Shi
+title: Ce Shi, Beijing International Studies University
 theme: PaperMod
 
 enableInlineShortcodes: true
@@ -36,7 +36,7 @@ params:
     math: true
     profileMode:
           enabled: true
-          title: Ce Shi, Beijing International Studies University
+          title: Ce Shi
           subtitle: "My name is Ce Shi (史策, 사책), and I’m a lecturer at Beijing International Studies University. I received my Ph.D. in Literature from Korea University in August 2024. My research interests include modern Korean literature, comparative literature, digital humanities, and Chinese <i>Dongbei</i> literature. Please refer to my CV for more information."
           imageUrl: "profile.jpg"
           imageWidth: 260
