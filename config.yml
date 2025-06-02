@@ -11,7 +11,7 @@ taxonomies:
     tag: tags
 
 params:
-    description: "My name is Ce Shi (史策, 사책). "
+    description: "My name is Ce Shi (史策, 사책), a lecturer at Beijing International Studies University."
     author: Ce Shi
     googleAnalyticsID: "G-28EY7KY9DC"
     DateFormat: "January 2006"
@@ -36,14 +36,14 @@ params:
     math: true
     profileMode:
           enabled: true
-          title: Ce Shi
-          subtitle: "My name is Ce Shi. I received my Ph.D. in Literature from Korea University in August 2024. My research interests include modern Korean literature, comparative literature, digital humanities, and Chinese <i>Dongbei</i> literature. Please refer to my CV for more information."
+          title: Ce Shi, Beijing International Studies University
+          subtitle: "My name is Ce Shi (史策, 사책), and I’m a lecturer at Beijing International Studies University. I received my Ph.D. in Literature from Korea University in August 2024. My research interests include modern Korean literature, comparative literature, digital humanities, and Chinese <i>Dongbei</i> literature. Please refer to my CV for more information."
           imageUrl: "profile.jpg"
           imageWidth: 260
           imageHeight: 260
           buttons:
             - name: Curriculum Vitae
-              url: https://www.dropbox.com/scl/fi/kv4cba5le59bf86vb9a4y/CV_20250618.pdf?rlkey=ym4me5y33kx6my104kr7ormvq&st=jve6b1ij&dl=0
+              url: https://www.dropbox.com/scl/fi/zrgwkux6f1nd8etgggkbl/CeShi_CV_June2025.pdf?rlkey=pdjxfmfxo22bwh439yyiq523m&st=ppdhpf17&dl=0
     assets:
         disableScrollBarStyle: true
     cover:
